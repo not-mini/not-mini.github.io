@@ -26,11 +26,11 @@ urls:
 
 author_logo: profile.png
 author: MinHee Lee
-author_bio: Hi, my name is MinHee Lee. Welcome My World.
+author_bio: Hi, my name is MinHee Lee.
 author_email: "lmh5284@gmail.com"
 author_location: Korea
 author_website_url: ""
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+typewrite-text: Welcome My World
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -40,21 +40,21 @@ author_work_experiences:
               company_url: https://google.com
               designation: Software Engineer
               description: Worked on various Google Products
-              visibility: true
+              visibility: false
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
-              visibility: true
+              visibility: false
 
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
+                college_name: DaeJeon University
                 college_url: https://mit.org
                 college_degree: CS Engineer
-                description: Bachelor of Technology
+                description: //
                 visibility: true
 
 # Projects
