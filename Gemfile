@@ -21,7 +21,7 @@ group :jekyll_plugins do
     gem 'jekyll-gist', '~> 1.5.0'
     gem 'jekyll-seo-tag', '~> 2.6.1'
     gem 'jekyll-sitemap', '~> 1.4.0'
-    gem 'jekyll-admin' #, '~> 0.11.0'
+    gem 'jekyll-admin' , '~> 0.11.0'
 end
 
 
@@ -36,3 +36,4 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem "webrick", "~> 1.7"
 
+# gem 'jekyll-admin', group: : jekyll_plugins

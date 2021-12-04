@@ -9,6 +9,7 @@ GEM
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
     faraday (1.8.0)
       faraday-em_http (~> 1.0)
@@ -29,6 +30,7 @@ GEM
     faraday-net_http_persistent (1.2.0)
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
+    ffi (1.15.4)
     ffi (1.15.4-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
@@ -105,6 +107,8 @@ GEM
     rouge (3.26.1)
     ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
+    sassc (2.4.0)
+      ffi (~> 1.9)
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     sawyer (0.8.2)
@@ -141,7 +145,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.2.29)
   jekyll (~> 4.2, >= 4.1.1)
-  jekyll-admin
+  jekyll-admin (~> 0.11.0)
   jekyll-feed (~> 0.13.0)
   jekyll-gist (~> 1.5.0)
   jekyll-paginate (~> 1.1.0)
