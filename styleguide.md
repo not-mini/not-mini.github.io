@@ -7,7 +7,7 @@ permalink: /styleguide/
 
 ### devlopr - Styleguide
 
-<hr />
+<hr /> 
 
  <img src="/assets/img/styleguide.png" class="img-fluid">
 
